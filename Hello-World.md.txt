@@ -4,3 +4,5 @@ This will be my first file on GitHub.
 This will be my first file on GitHub.
 
 neco se tdy zmenilo 
+
+pridalo se to na gitHub??

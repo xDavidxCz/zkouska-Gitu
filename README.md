@@ -5,3 +5,4 @@ moje prvni zkouska prace na Githubu
 prace s Gitem
 # Hello world!
 This will be my first file on GitHub.
+funguje to??
