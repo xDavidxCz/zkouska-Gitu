@@ -11,3 +11,7 @@ Pridal jsem soubour .gitignore
 
 blablablablabla
 nananananana
+
+blanech me adkjsada
+asfsafasfasfa
+
