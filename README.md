@@ -8,3 +8,6 @@ This will be my first file on GitHub.
 funguje to??
 
 Pridal jsem soubour .gitignore
+
+blablablablabla
+nananananana
